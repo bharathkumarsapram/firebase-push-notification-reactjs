@@ -1,3 +1,7 @@
+# firebase-push-notification-reactjs
+
+Push notification using Firebase in react js with typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
