@@ -173,5 +173,4 @@ Note: Ensure to handle security aspects and customize the notification handling 
 ### Resources
 
 -   https://www.audreyhal.com/blog/push-notifications-with-firebase-in-react
--   Example project: https://drive.google.com/file/d/1RHkSSRX8QUUNLgfV5eU9UUXUM30vjVLI/view?usp=sharing
--   https://docs.google.com/document/d/1hSNIGwbk2SgKYTbNjJRu_HXGcb6ZpYNLv6psQCkma4s/edit?usp=sharing
+
